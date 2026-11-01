@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../0001_DataRange"
+		},
+		{
+			"path": "../0001_Link"
+		},
+		{
+			"path": "../0002_1D_DynamicArray"
+		},
+		{
+			"path": "../0002_2D_DynamicArray"
+		},
+		{
+			"path": "../0003_2D_DynamicAray"
+		},
+		{
+			"path": "../0004_2D_DynamicArray"
+		},
+		{
+			"path": "../0005_2D_DynamicArray"
+		},
+		{
+			"path": "../0006_2D_DynamicArray"
+		},
+		{
+			"path": "../0007_Struct"
+		},
+		{
+			"path": "../0008_Call_By_address&reference"
+		},
+		{
+			"path": "../0008_CallBy_XXXX"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../0010_String02"
+		}
+	]
+}
